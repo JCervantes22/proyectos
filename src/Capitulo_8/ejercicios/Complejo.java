@@ -32,7 +32,7 @@ public class Complejo {
         return new Complejo(parteRealResta, parteImaginariaResta);
     }
 
-    // Imprimir el número complejo juan juan
+    // Imprimir el número complejo juan juan juan
     public void imprimir() {
         System.out.println("( " + parteReal + ", " + parteImaginaria + "i )");
     }
