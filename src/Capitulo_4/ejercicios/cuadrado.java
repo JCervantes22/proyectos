@@ -12,7 +12,7 @@ public class cuadrado {
         // Validar que el tamaño del lado esté dentro del rango permitido
         if (lado < 1 || lado > 20) {
             System.out.println("El tamaño del lado debe estar entre 1 y 20.");
-            return;
+
         }
 
         // Imprimir el cuadrado hueco
