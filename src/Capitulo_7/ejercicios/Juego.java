@@ -36,8 +36,4 @@ public class Juego {
             System.out.println("Empate");
         }
     }
-
-    private static Carta[] iterator(Mano mano1) {
-        return null;
-    }
 }
